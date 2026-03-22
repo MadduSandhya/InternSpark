@@ -1,0 +1,72 @@
+2026-03-21 19:19:13,549 - INFO - Moved document1.pdf to Documents
+2026-03-21 19:19:13,551 - INFO - Moved photo1.jpg to Images
+2026-03-21 19:19:13,552 - INFO - Moved song1.mp3 to Music
+2026-03-21 19:19:13,554 - INFO - Moved video1.mp4 to Videos
+2026-03-21 19:23:45,799 - WARNING - Skipped invalid or non-file: C:\Users\SRAVANTHI\Documents\IISExpress
+2026-03-21 19:23:45,810 - WARNING - Skipped invalid or non-file: C:\Users\SRAVANTHI\Documents\My Music
+2026-03-21 19:23:45,810 - WARNING - Skipped invalid or non-file: C:\Users\SRAVANTHI\Documents\My Pictures
+2026-03-21 19:23:45,811 - WARNING - Skipped invalid or non-file: C:\Users\SRAVANTHI\Documents\My Videos
+2026-03-21 19:23:45,811 - WARNING - Skipped invalid or non-file: C:\Users\SRAVANTHI\Documents\My Web Sites
+2026-03-21 19:30:34,558 - INFO - Copied Screenshot 2023-03-19 173850.png to Images
+2026-03-21 19:36:00,811 - INFO - Copied 22bq1a05c8(1).pdf to Documents
+2026-03-22 19:17:29,580 - INFO - Copied .xml to Others
+2026-03-22 19:17:29,586 - INFO - Copied 1-c.jpg to Images
+2026-03-22 19:17:29,588 - INFO - Copied Blockchain Use Case.pdf to Documents
+2026-03-22 19:17:29,590 - INFO - Copied id back.jpg to Images
+2026-03-22 19:17:29,591 - INFO - Copied id.pdf to Documents
+2026-03-22 19:17:29,593 - INFO - Copied IOT USECASES.pdf to Documents
+2026-03-22 19:17:29,598 - INFO - Copied lab 4-calculator by using javascript and css.zip to Archives
+2026-03-22 19:17:29,600 - INFO - Copied login.html to Others
+2026-03-22 19:17:29,602 - INFO - Copied mini_project.zip to Archives
+2026-03-22 19:17:29,604 - INFO - Copied Online Exam Document1.docx to Documents
+2026-03-22 19:17:29,606 - INFO - Copied Presentation.pdf to Documents
+2026-03-22 19:17:29,607 - INFO - Copied register.html to Others
+2026-03-22 19:23:37,626 - INFO - Copied 10th certificate_compressed.pdf to Documents
+2026-03-22 19:23:37,631 - INFO - Copied 2- Days Intensive Shopify Training.pdf to Documents
+2026-03-22 19:23:37,696 - INFO - Copied 4th year full stack Assets.zip to Archives
+2026-03-22 19:23:37,698 - INFO - Copied Akshaya resume.docx to Documents
+2026-03-22 19:23:37,701 - INFO - Copied Akshaya_Two_Column_Resume.docx to Documents
+2026-03-22 19:23:37,702 - INFO - Copied Assignment.pdf to Documents
+2026-03-22 19:23:37,704 - INFO - Copied BookFinder-main.zip to Archives
+2026-03-22 19:23:37,707 - INFO - Copied D2_resume.pdf to Documents
+2026-03-22 19:23:37,709 - INFO - Copied DOCUMENT.pdf to Documents
+2026-03-22 19:23:37,710 - INFO - Copied D_resume.docx to Documents
+2026-03-22 19:23:37,712 - INFO - Copied D_resume.pdf to Documents
+2026-03-22 19:23:37,713 - INFO - Copied Foodie_Front-main.zip to Archives
+2026-03-22 19:23:37,715 - INFO - Copied FRONTEND INTERNSHIP ASSIGNMENT.pdf to Documents
+2026-03-22 19:23:37,717 - INFO - Copied g4U287XPQ4aKgjqq0iV8_Excel Handouts.zip to Archives
+2026-03-22 19:23:37,718 - INFO - Copied intern-task-board.zip to Archives
+2026-03-22 19:23:37,889 - INFO - Copied LockDownBrowserOEMSetup (1).exe to Others
+2026-03-22 19:23:37,892 - INFO - Copied Maddu_Sandhya_Software_Developer_Resume.docx to Documents
+2026-03-22 19:23:37,896 - INFO - Copied Maddu_Sandhya_Software_Developer_Resume.pdf to Documents
+2026-03-22 19:23:37,939 - INFO - Copied node-v24.13.1-x64.msi to Others
+2026-03-22 19:23:37,942 - INFO - Copied patient-dashboard.zip to Archives
+2026-03-22 19:23:37,945 - INFO - Copied publicpulse (4).zip to Archives
+2026-03-22 19:23:37,946 - INFO - Copied PublicPulse_CSP_Presentation.pptx to Documents
+2026-03-22 19:23:37,949 - INFO - Copied PublicPulse_CSP_Review_Structure (1).pptx to Documents
+2026-03-22 19:23:37,951 - INFO - Copied PublicPulse_CSP_Review_Structure.pptx to Documents
+2026-03-22 19:23:37,954 - INFO - Copied PublicPulse_CSP_Review_Structure[1].pptx to Documents
+2026-03-22 19:23:38,022 - INFO - Copied python-manager-25.2.msix to Others
+2026-03-22 19:23:38,027 - INFO - Copied Resume_Sandhya (Frontend).docx to Documents
+2026-03-22 19:23:38,032 - INFO - Copied Resume_Sandhya (Frontend).pdf to Documents
+2026-03-22 19:23:38,034 - INFO - Copied Resume_Sandhya.docx to Documents
+2026-03-22 19:23:38,040 - INFO - Copied Resume_Sandhya.pdf to Documents
+2026-03-22 19:23:38,045 - INFO - Copied Resume_Template_by_Anubhav.docx to Documents
+2026-03-22 19:23:38,049 - INFO - Copied Resume_Template_by_Anubhav.pdf to Documents
+2026-03-22 19:23:38,051 - INFO - Copied sandhya_maddu_12-02-26.docx to Documents
+2026-03-22 19:23:38,056 - INFO - Copied smart-content-interpreter (1).zip to Archives
+2026-03-22 19:23:38,066 - INFO - Copied smart-content-interpreter (2).zip to Archives
+2026-03-22 19:23:38,071 - INFO - Copied smart-content-interpreter (3).zip to Archives
+2026-03-22 19:23:38,077 - INFO - Copied smart-content-interpreter (5).zip to Archives
+2026-03-22 19:23:38,081 - INFO - Copied smart-content-interpreter.zip to Archives
+2026-03-22 19:23:38,084 - INFO - Copied Store Design Standards.pdf to Documents
+2026-03-22 19:23:38,087 - INFO - Copied Swarupa (1).pdf to Documents
+2026-03-22 19:23:38,091 - INFO - Copied WhatsApp Image 2026-02-23 at 2.43.17 PM.jpeg to Images
+2026-03-22 19:23:38,095 - INFO - Copied WhatsApp Image 2026-02-23 at 8.47.47 PM (1).jpeg to Images
+2026-03-22 19:23:38,098 - INFO - Copied WhatsApp Image 2026-02-23 at 8.47.47 PM (2).jpeg to Images
+2026-03-22 19:23:38,100 - INFO - Copied WhatsApp Image 2026-02-23 at 8.47.47 PM.jpeg to Images
+2026-03-22 19:23:38,102 - INFO - Copied WhatsApp Image 2026-02-23 at 8.47.48 PM (1).jpeg to Images
+2026-03-22 19:23:38,105 - INFO - Copied WhatsApp Image 2026-02-23 at 8.47.48 PM (2).jpeg to Images
+2026-03-22 19:23:38,108 - INFO - Copied WhatsApp Image 2026-02-23 at 8.47.48 PM.jpeg to Images
+2026-03-22 19:23:38,110 - INFO - Copied White Minimalist Marketing Manager LinkedIn Banner.png to Images
+2026-03-22 19:23:38,113 - INFO - Copied workspace-811dd457-b491-4a46-b433-d6d63ad6c87e.tar to Others
